@@ -3,7 +3,7 @@ Code development for FreeCodeCamp Course 2: JavaScript Algorithms and Data Struc
 The course consists of 300-hour worth of lessons and five projects:
 
 Project 1: Palindrome Checker (palindromeChecker.js)
-
+-----------------------------------------------------
 Return true if the given string is a palindrome. Otherwise, return false.
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
